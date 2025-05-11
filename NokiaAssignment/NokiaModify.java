@@ -548,7 +548,7 @@ default-> System.out.println("Choose a valid option");
  }// delivery report case end
 
  case 2-> { 
-System.out.println("same centre");
+System.out.println("Reply via same Center");
 boolean SameCentre = true;
 while (SameCentre) {
 System.out.println("""
